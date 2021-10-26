@@ -20,6 +20,7 @@ class Petru:
 
 ---
 
+* [`Personal Blog`](https://petrupotrimba.altervista.org/index.php) : Actively writing blog posts about my research projects mainly focused on Machine Learning, Deep Learning, NLP and Deep Learning. Give it a look!
 
 * [`Send Time Optmization`](https://github.com/pptr3/send-time-optimization) : Send Time Optimization (STO) is an add-on feature that allows marketers the ability to send emails at the most optimal send time to each recipient. We used feature enginnering to create meaningful features and then we used deep learning to address this problem.
   
@@ -36,10 +37,11 @@ class Petru:
 
   
 <br />
-<p align="center" style="font-weight:bold"> 🔨 <b> Academic achievements </b> <p>
+<p align="center" style="font-weight:bold"> 🎓 <b> Academic achievements </b> <p>
   
  * Being accepted from ETH University for Computer Science Master's Degree (ETH engineering department is 4° ranked among all the engineering departments all over the world).
  * Selected as one of the best students among all Masters students of the Engineering department of Bologna University (top 0.5%) based on academing grades and resume.
+ * Master's Degree grade: 110/110 with honors.
   
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
