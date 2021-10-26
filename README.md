@@ -41,7 +41,7 @@ class Petru:
   
  * Being accepted from ETH University for Computer Science Master's Degree (ETH engineering department is 4° ranked among all the engineering departments all over the world).
  * Selected as one of the best students among all Masters students of the Engineering department of Bologna University (top 0.5%) based on academing grades and resume.
- * Master's Degree grade: 110/110 with honors.
+ * Master's Degree grade: 110/110 with honours.
   
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
