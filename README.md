@@ -22,7 +22,7 @@ class Petru:
 
 * [`Personal Blog`](https://petrupotrimba.altervista.org/index.php) : Actively writing blog posts about my research projects mainly focused on Machine Learning, Deep Learning, NLP and Computer Vision. Give it a look!
 
-* [`Send Time Optmization`](https://github.com/pptr3/send-time-optimization) : Send Time Optimization (STO) is an add-on feature that allows marketers the ability to send emails at the most optimal send time to each recipient. We used feature enginnering to create meaningful features and then we used deep learning to address this problem.
+* [`Send Time Optmization`](https://github.com/pptr3/send-time-optimization) : Send Time Optimization (STO) is an add-on feature that allows marketers the ability to send emails at the most optimal send time to each recipient. We used feature engineering to create meaningful features and then we used deep learning to address this problem.
   
 * [`Image captioning using attention`](https://github.com/pptr3/image-captioning-keras) : Image captioning using **Bahdanau and Luong attention** applied on **COCO and Flickr8k datasets**. The performances have been measured using BLEU and METEOR scores.
   
