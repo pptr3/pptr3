@@ -10,7 +10,7 @@ class Petru:
     self.education = 'Unibo'
     self.experience = ['Unibo','Imola Informatica', 'Sis.ter', 'AIvolution']
     self.roles = ['Software engineer', 'Machine learning engineer', 'Data scientist']
-    self.interests = ['Machine Learning','Deep learning', 'Computer Vision', 'NLP', 'Competitive Programming']
+    self.interests = ['Machine Learning','Deep Learning', 'Computer Vision', 'NLP', 'Competitive Programming']
     self.languages = ['English', 'Italian', 'Romanian', 'Spanish']
     self.hobbies = ['Tv series','Swimming', 'Fitnesss']
 ```
