@@ -8,8 +8,8 @@ class Petru:
     self.name = 'Petru'
     self.surname = 'Potrimba'
     self.education = 'Unibo'
-    self.experience = ['Unibo','Imola Informatica', 'Sis.ter', 'AIvolution']
-    self.roles = ['Software engineer', 'Machine learning engineer', 'Data scientist']
+    self.experience = ['AIvolution', 'Sis.ter', 'Imola Informatica', 'Unibo']
+    self.roles = ['Machine learning engineer', 'Data scientist', 'Software engineer']
     self.interests = ['Machine Learning','Deep Learning', 'Computer Vision', 'NLP', 'Competitive Programming']
     self.languages = ['English', 'Italian', 'Romanian', 'Spanish']
     self.hobbies = ['Tv series','Swimming', 'Fitnesss']
@@ -50,5 +50,5 @@ class Petru:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petru-potrimba-a065a0137/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppotrimba@gmail.com)
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://petrupotrimba.altervista.org/)
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=blog&logoColor=white)](https://petrupotrimba.altervista.org/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pptr3)
