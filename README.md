@@ -20,7 +20,7 @@ class Petru:
 
 ---
 
-* [`Personal Blog`](https://petrupotrimba.altervista.org/index.php) : Actively writing blog posts about my research projects mainly focused on Machine Learning, Deep Learning, NLP and Computer Vision. Give it a look!
+* [`Personal Blog`](https://potrimba.altervista.org/index.php) : Actively writing blog posts about my research projects mainly focused on Machine Learning, Deep Learning, NLP and Computer Vision. Give it a look!
 
 * [`Send Time Optmization`](https://github.com/pptr3/send-time-optimization) : Send Time Optimization (STO) is an add-on feature that allows marketers the ability to send emails at the most optimal send time to each recipient. We used feature engineering to create meaningful features and then we used deep learning to address this problem.
   
