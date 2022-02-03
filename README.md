@@ -30,7 +30,7 @@ class Petru:
   
 * [`Road signs recognition`](https://github.com/pptr3/road-sings-recognition-pytorch) : **Multiclass classification** model for the recognition of 21 different road signs used in **autonomous car systems**.
   
-* [`AI that plays Tablut better than you.`](https://github.com/pptr3/TablutAI) : Tablut is a board game. You can think of it as if it were the game of chess. We created an AI that plays the game using **Min-Max** with **Alpha-Beta pruning**. The AI can easily beat a non expert human player.
+* [`AI that plays Tablut better than you`](https://github.com/pptr3/TablutAI) : Tablut is a board game. You can think of it as if it were the game of chess. We created an AI that plays the game using **Min-Max** with **Alpha-Beta pruning**. The AI can easily beat a non expert human player.
   
 
 ---
