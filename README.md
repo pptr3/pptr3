@@ -42,6 +42,7 @@ class Petru:
  * I was admitted to ETH University for Computer Science Master's Degree (ETH engineering department is 4° ranked among all the engineering departments all over the world).
  * Selected as one of the best students among all Masters students of the Engineering department of Bologna University (top 0.4%) based on academic grades and resume.
  * Master's Degree grade: 110/110 with honours.
+ * Winner of Start Hub Consulting coding challenge (first position among 200+ competitors) [`link`]([https://github.com/pptr3/TablutAI](https://www.linkedin.com/feed/update/urn:li:activity:6922178181105864704/)).
   
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
