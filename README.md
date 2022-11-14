@@ -24,7 +24,7 @@ class Petru:
 
 * [`Send Time Optmization`](https://github.com/pptr3/send-time-optimization) : Send Time Optimization (STO) is an add-on feature that allows marketers the ability to send emails at the most optimal send time to each recipient. We used feature engineering to create meaningful features and then we used deep learning to address this problem. The implemented solution **improved the ratio of opened emails by ∼ 32% and the click ratio by ∼ 12%**.
   
-* [`TablutAI `](https://github.com/pptr3/TablutAI) : Developed an AI that plays the game of Tablut (a game similar to chess) using the Min-Max algorithm along with Alpha-Beta cuts. The implemented algorithm is able to beat a non-expert human.
+* [`TablutAI`](https://github.com/pptr3/TablutAI) : Developed an AI that plays the game of Tablut (a game similar to chess) using the Min-Max algorithm along with Alpha-Beta cuts. The implemented algorithm is able to beat a non-expert human.
   
 * [`Book your pancake`](https://github.com/pptr3/pancake-fp) : Developed a website (backend and frontend) for booking pancakes completely from scratch. The project was a challenge launched by Bologna University to 200+ students and my project **ranked top 10** based on the
 implemented features and the responsiveness across several devices. You can see the website [`here `](https://pancakepf.altervista.org/Users/home.php).
