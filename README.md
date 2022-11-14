@@ -7,7 +7,7 @@ class Petru:
   def __init__(self):
     self.name = 'Petru'
     self.surname = 'Potrimba'
-    self.education = 'Bachelor's in Compuer Science and Engineering and Master's Degree in Artificial Intelligence'
+    self.education = 'Bachelor in Compuer Science and Engineering and Master Degree in Artificial Intelligence'
     self.experience = ['Roboflow', 'AIvolution', 'Sis.ter', 'Imola Informatica', 'Unibo']
     self.roles = ['Full Stack Software Engineer', 'Machine Learning Engineer']
     self.interests = ['Backend', 'Competitive Programming', 'Machine Learning', 'Teaching', 'Communication']
