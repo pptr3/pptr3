@@ -7,10 +7,10 @@ class Petru:
   def __init__(self):
     self.name = 'Petru'
     self.surname = 'Potrimba'
-    self.education = 'Unibo'
-    self.experience = ['AIvolution', 'Sis.ter', 'Imola Informatica', 'Unibo']
-    self.roles = ['Machine learning engineer', 'Data scientist', 'Software engineer']
-    self.interests = ['Machine Learning','Deep Learning', 'Computer Vision', 'NLP', 'Competitive Programming']
+    self.education = 'Bachelor's in Compuer Science and Engineering and Master's Degree in Artificial Intelligence'
+    self.experience = ['Roboflow', 'AIvolution', 'Sis.ter', 'Imola Informatica', 'Unibo']
+    self.roles = ['Full Stack Software Engineer', 'Machine Learning Engineer']
+    self.interests = ['Backend', 'Competitive Programming', 'Machine Learning', 'Teaching', 'Communication']
     self.languages = ['English', 'Italian', 'Romanian', 'Spanish']
     self.hobbies = ['Tv series','Swimming', 'Fitness']
 ```
@@ -20,18 +20,16 @@ class Petru:
 
 ---
 
-* [`Personal Blog`](https://potrimba.altervista.org/index.php) : Actively writing blog posts about my research projects mainly focused on Machine Learning, Deep Learning, NLP and Computer Vision. Give it a look!
+* [`Personal Blog`](https://potrimba.altervista.org/index.php) : Actively writing blog posts about my research projects mainly focused on Software Engineering and Machine Learning. Give it a look!
 
-* [`Send Time Optmization`](https://github.com/pptr3/send-time-optimization) : Send Time Optimization (STO) is an add-on feature that allows marketers the ability to send emails at the most optimal send time to each recipient. We used feature engineering to create meaningful features and then we used deep learning to address this problem.
+* [`Send Time Optmization`](https://github.com/pptr3/send-time-optimization) : Send Time Optimization (STO) is an add-on feature that allows marketers the ability to send emails at the most optimal send time to each recipient. We used feature engineering to create meaningful features and then we used deep learning to address this problem. The implemented solution **improved the ratio of opened emails by ∼ 32% and the click ratio by ∼ 12%**.
   
-* [`Image captioning using attention`](https://github.com/pptr3/image-captioning-keras) : Image captioning using **Bahdanau and Luong attention** applied on **COCO and Flickr8k datasets**. The performances have been measured using BLEU and METEOR scores.
+* [`TablutAI `](https://github.com/pptr3/TablutAI) : Developed an AI that plays the game of Tablut (a game similar to chess) using the Min-Max algorithm along with Alpha-Beta cuts. The implemented algorithm is able to beat a non-expert human.
   
-* [`Generate synthetic faces with specific attributes`](https://github.com/pptr3/face-generation-gan-keras) : Auxiliary classifier generative adversarial network (**AC-GAN**) model that is able to generate synthetic faces conditioned with a specific set of attributes. **All the CelebA attributes** have been taken into account. **FID score: 19.42**.
+* [`Book your pancake`](https://github.com/pptr3/pancake-fp) : Developed a website (backend and frontend) for booking pancakes completely from scratch. The project was a challenge launched by Bologna University to 200+ students and my project **ranked top 10** based on the
+implemented features and the responsiveness across several devices. You can see the website [`here `](https://pancakepf.altervista.org/Users/home.php).
   
-* [`Road signs recognition`](https://github.com/pptr3/road-sings-recognition-pytorch) : **Multiclass classification** model for the recognition of 21 different road signs used in **autonomous car systems**.
-  
-* [`AI that plays Tablut better than you`](https://github.com/pptr3/TablutAI) : Tablut is a board game. You can think of it as if it were the game of chess. We created an AI that plays the game using **Min-Max** with **Alpha-Beta pruning**. The AI can easily beat a non expert human player.
-  
+* [`Math assistant`](https://github.com/pptr3/math-assistant) :  Implemented and deployed a custom Optical Character Recognition (OCR) within an iOS Mobile application and a Telegram bot for the **recognition and correction of handwritten mathematical expressions**.
 
 ---
 
@@ -39,10 +37,9 @@ class Petru:
 <br />
 <p align="center" style="font-weight:bold"> 🎓 <b> Academic achievements </b> <p>
   
- * I was admitted to ETH University for Computer Science Master's Degree (ETH engineering department is 4° ranked among all the engineering departments all over the world).
- * Selected as one of the best students among all Masters students of the Engineering department of Bologna University (top 0.4%) based on academic grades and resume.
- * Master's Degree grade: 110/110 with honours.
- * Winner of Start Hub Consulting coding challenge (first position among 200+ competitors) [`link`](https://www.linkedin.com/feed/update/urn:li:activity:6922178181105864704/).
+ * **Top 0.4 % student** among all Masters students of the Engineering department of Bologna University.
+ *  **Winner** of Start Hub Consulting **competitive programming challenge** (first position among 200+ competitors) [`link`](https://www.linkedin.com/feed/update/urn:li:activity:6922178181105864704/).
+ * Admitted to **ETH University** for Computer Science Master’s Degree (ETH engineering department is 4° ranked among all the engineering departments all over the world).
   
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
