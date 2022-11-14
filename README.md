@@ -9,8 +9,8 @@ class Petru:
     self.surname = 'Potrimba'
     self.education = 'Bachelor in Compuer Science and Engineering and Master Degree in Artificial Intelligence'
     self.experience = ['Roboflow', 'AIvolution', 'Sis.ter', 'Imola Informatica', 'Unibo']
-    self.roles = ['Full Stack Software Engineer', 'Machine Learning Engineer']
-    self.interests = ['Backend', 'Competitive Programming', 'Machine Learning', 'Teaching', 'Communication']
+    self.roles = ['Full Stack Developer', 'Machine Learning Engineer']
+    self.interests = ['Backend', 'Machine Learning', 'Competitive Programming', 'Teaching', 'Communication']
     self.languages = ['English', 'Italian', 'Romanian', 'Spanish']
     self.hobbies = ['Tv series','Swimming', 'Fitness']
 ```
