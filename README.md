@@ -27,7 +27,7 @@ class Petru:
 * [`TablutAI`](https://github.com/pptr3/TablutAI) : Developed an AI that plays the game of Tablut (a game similar to chess) using the Min-Max algorithm along with Alpha-Beta cuts. The implemented algorithm is able to beat a non-expert human.
   
 * [`Book your pancake`](https://github.com/pptr3/pancake-fp) : Developed a website (backend and frontend) for booking pancakes completely from scratch. The project was a challenge launched by Bologna University to 200+ students and my project **ranked top 10** based on the
-implemented features and the responsiveness across several devices. You can see the website [`here `](https://pancakepf.altervista.org/Users/home.php).
+implemented features and the responsiveness across several devices. You can see the website [`here`](https://pancakepf.altervista.org/Users/home.php).
   
 * [`Math assistant`](https://github.com/pptr3/math-assistant) :  Implemented and deployed a custom Optical Character Recognition (OCR) within an iOS Mobile application and a Telegram bot for the **recognition and correction of handwritten mathematical expressions**.
 
