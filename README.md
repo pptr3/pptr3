@@ -7,10 +7,10 @@ class Petru:
   def __init__(self):
     self.name = 'Petru'
     self.surname = 'Potrimba'
-    self.education = 'Bachelor in Compuer Science and Engineering and Master Degree in Artificial Intelligence'
+    self.education = 'Master Degree in Artificial Intelligence and Bachelor Degree in Compuer Science and Engineering'
     self.experience = ['Roboflow', 'AIvolution', 'Sis.ter', 'Imola Informatica', 'Unibo']
-    self.roles = ['Full Stack Developer', 'Machine Learning Engineer']
-    self.interests = ['Backend', 'Machine Learning', 'Competitive Programming', 'Teaching', 'Communication']
+    self.roles = ['Machine Learning Engineer', 'Researcher', 'Software Engineer']
+    self.interests = ['Machine Learning', 'Deep Learning', 'Competitive Programming', 'Teaching', 'Communication']
     self.languages = ['English', 'Italian', 'Romanian', 'Spanish']
     self.hobbies = ['Tv series','Swimming', 'Fitness']
 ```
@@ -24,12 +24,11 @@ class Petru:
 
 * [`Send Time Optmization`](https://github.com/pptr3/send-time-optimization) : Send Time Optimization (STO) is an add-on feature that allows marketers the ability to send emails at the most optimal send time to each recipient. We used feature engineering to create meaningful features and then we used deep learning to address this problem. The implemented solution **improved the ratio of opened emails by ∼ 32% and the click ratio by ∼ 12%**.
   
-* [`TablutAI`](https://github.com/pptr3/TablutAI) : Developed an AI that plays the game of Tablut (a game similar to chess) using the Min-Max algorithm along with Alpha-Beta cuts. The implemented algorithm is able to beat a non-expert human.
+* [`Generate synthetic faces`](https://github.com/pptr3/TablutAI) : Auxiliary classifier generative adversarial network (AC-GAN) model that can generate synthetic conditioned faces with a specific set of attributes (example: generate a face of a woman, with blond hair that smiles). The **FID metric** reached a score of **19.42** for the generation of conditioned synthetic faces and a score of **11.07** for the generation of random synthetic faces.
   
-* [`Book your pancake`](https://github.com/pptr3/pancake-fp) : Developed a website (backend and frontend) for booking pancakes completely from scratch. The project was a challenge launched by Bologna University to 200+ students and my project **ranked top 10** based on the
-implemented features and the responsiveness across several devices. You can see the website [`here`](https://pancakepf.altervista.org/Users/home.php).
+* [`Math assistant`](https://github.com/pptr3/math-assistant) : Implemented and deployed a custom Optical Character Recognition (OCR) within an iOS Mobile application and a Telegram bot for **the recognition of handwritten mathematical expressions**. Implemented a Machine Learning model that understands whether the mathematical expressions are correct or not.
   
-* [`Math assistant`](https://github.com/pptr3/math-assistant) :  Implemented and deployed a custom Optical Character Recognition (OCR) within an iOS Mobile application and a Telegram bot for the **recognition and correction of handwritten mathematical expressions**.
+* [`Image captioning with Transformers`](https://github.com/pptr3/image-captioning-keras) : Implemented the Image Captioning model using deep learning with **Transformers**. The model has been trained both on COCO and Flickr8k datasets. The performance reached results comparable to the **state-of-the-art** of 2020 on the BLEU and METEOR metrics.
 
 ---
 
@@ -38,7 +37,7 @@ implemented features and the responsiveness across several devices. You can see 
 <p align="center" style="font-weight:bold"> 🎓 <b> Academic achievements </b> <p>
   
  * **Top 0.4 % student** among all Masters students of the Engineering department of Bologna University.
- *  **Winner** of Start Hub Consulting **competitive programming challenge** (first position among 200+ competitors) [`link`](https://www.linkedin.com/feed/update/urn:li:activity:6922178181105864704/).
+ *  **Winner** of Start Hub **competitive programming** coding challenge (first position among 200+ competitors) [`link`](https://www.linkedin.com/feed/update/urn:li:activity:6922178181105864704/).
  * Admitted to **ETH University** for Computer Science Master’s Degree (ETH engineering department is 4° ranked among all the engineering departments all over the world).
   
 <br />
